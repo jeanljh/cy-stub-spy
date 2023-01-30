@@ -1,1 +1,0 @@
-# cy-stub-spy
