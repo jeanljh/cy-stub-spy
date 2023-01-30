@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Simple Window Confirm</title>
+    </head>
+    <body>
+        <script type="text/javascript">
+            function clickme() {
+                var value = window.confirm("Please click Confirm or Cancel")
+                if (value) {
+                    document.getElementById("result").innerHTML = "You have clicked Confirm"
+                } else {
+                    document.getElementById("result").innerHTML = "You have clicked Cancel"
+                }
+            }
+        </script>
+        <p>Click the button to display a confirm window</p>
+        <button id="clickme" onclick="clickme()">Click Me</button>
+        <div id="result"></div>
+    </body>
+</html>
