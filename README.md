@@ -1,6 +1,6 @@
 # cy-stub-spy
 
-[![CI](https://github.com/jeanljh/cy-stub-spy/actions/workflows/main.yml/badge.svg)](https://github.com/jeanljh/cy-stub-spy/actions/workflows/main.yml)
+[![test](https://github.com/jeanljh/cy-stub-spy/actions/workflows/test.yml/badge.svg)](https://github.com/jeanljh/cy-stub-spy/actions/workflows/test.yml)
 
 Example of Cypress testing with cy.spy and cy.stub and Mochawesome to generate test report.
 
