@@ -39,7 +39,7 @@ jobs:
       - run: curl -vvvv http://localhost:5500/
 
       - name: Remove json result files
-        uses: JesseTG/rm@v1.0.2
+        uses: JesseTG/rm@v1.0.3
         with:
           path: ./cypress/results/json
 
