@@ -28,7 +28,7 @@
   "devDependencies": {
     "cypress": "^16.1.1",
     "cypress-multi-reporters": "^2.0.5",
-    "del-cli": "^7.0.0",
+    "del-cli": "^8.0.1",
     "mochawesome": "^8.1.1",
     "mochawesome-merge": "^5.1.1"
   }
