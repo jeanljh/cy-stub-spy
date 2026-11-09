@@ -27,7 +27,7 @@
   "homepage": "https://github.com/jeanljh/cy-stub-spy#readme",
   "devDependencies": {
     "cypress": "^16.2.1",
-    "cypress-multi-reporters": "^2.0.5",
+    "cypress-multi-reporters": "^2.1.0",
     "del-cli": "^8.0.1",
     "mochawesome": "^8.1.1",
     "mochawesome-merge": "^5.1.1"
